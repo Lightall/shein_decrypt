@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Oneplus Decrypter (c) V 1.4 B.Kerler 2019-2022
+# shein Decrypter (c) V 1.4 B.Kerler 2019-2022
 # Licensed under MIT License
 
 """
